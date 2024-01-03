@@ -1,5 +1,7 @@
 <!-- Header -->
-![MasterHead](https://designyoutrust.com/wp-content/uploads/2019/05/1.gif)
+![MasterHead](https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif)
+<!--https://designyoutrust.com/wp-content/uploads/2019/05/1.gif-->
+
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Christian Valdez</h1>

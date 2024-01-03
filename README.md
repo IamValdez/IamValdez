@@ -1,7 +1,7 @@
 ![MasterHead](https://designyoutrust.com/wp-content/uploads/2019/05/1.gif)
 
 <h1 align="center">Hi 👋, I'm Christian Valdez</h1>
-<h3 align="center">A passionate frontend developer and UI/UI Designer</h3>
+<h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

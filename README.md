@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://designyoutrust.com/wp-content/uploads/2019/05/1.gif)
 
 <h1 align="center">Hi 👋, I'm Christian Valdez</h1>
 <h3 align="center">A passionate frontend developer and UI/UI Designer</h3>

@@ -3,10 +3,11 @@
 <h1 align="center">Hi 👋, I'm Christian Valdez</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400px" style="border-radius: 10;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvaldez&label=Profile%20views&color=0e75b6&style=flat" alt="iamvaldez" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvaldez&label=Profile%20views&color=0e75b6&style=fla" alt="iamvaldez" /> </p>
 
 - 🔭 I’m currently studying on **St. Vincent College of Cabuyao**
 

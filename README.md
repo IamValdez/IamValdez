@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Christian Valdez</h1>
-<h3 align="center">Passionate Frontend Developer and UI/UX Designer</h3>
+<h3 align="center">Passionate Frontend Developer and UX/UI Designer</h3>
 
 <!-- Image on the right -->
 <img align="right" alt="Coding" width="380px" style="border-radius: 30px;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w">

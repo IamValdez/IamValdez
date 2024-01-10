@@ -26,7 +26,7 @@
 <p align="left">
   <a href="https://twitter.com/delllllights" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="delllllights" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/christian-jay-g-valdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian jay g. valdez" height="30" width="40" /></a>
-  <a href="https://facebook.com/christian.j.valdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christian jay valdez" height="30" width="40" /></a>
+  <a href="https://facebook.com/christian jay valdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christian jay valdez" height="30" width="40" /></a>
   <a href="https://instagram.com/lifeof.valdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lifeof.valdez" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/valdezchristianjayg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="valdez christian jay g." height="30" width="40" /></a>
 </p>

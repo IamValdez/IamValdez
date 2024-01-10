@@ -4,7 +4,7 @@
 
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Christian Valdez</h1>
+<!--<h1 align="center">Hi 👋, I'm Christian Valdez</h1>-->
 <h3 align="center">Passionate Frontend Developer and UX/UI Designer</h3>
 
 <!-- Image on the right -->

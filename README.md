@@ -1,8 +1,7 @@
 <!-- Header -->
-<!--![MasterHead](https://designyoutrust.com/wp-content/uploads/2019/05/1.gif) -->
+![MasterHead](https://designyoutrust.com/wp-content/uploads/2019/05/1.gif)
 <!--https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif-->
-
-<img src="Background.png" alt="MasterHead" width="2000">
+<!--<img src="Background.png" alt="MasterHead" width="2000"> -->
 
 
 <!-- Introduction -->
